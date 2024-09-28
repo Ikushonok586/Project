@@ -1,0 +1,44 @@
+body{
+  background-image:("C:\Users\asus\Desktop\WEB\depositphotos_675525572-stock-photo-top-view-gamer-gears-joystick.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+
+header{
+  padding: 10px 5%;
+  background-color:white;  
+}
+
+header>*{
+  display:inline-block;
+  width:450px;
+}
+
+.pustota{
+  width:10%;
+}
+
+a{
+  text-decoration:none;
+  color:black;
+  margin: 0 10px;
+}
+
+.banner{
+  padding:20% 5%;
+  color:white;
+  font-size:30px;
+}
+
+.post{
+  background-color:white;
+  padding: 10px 5%;
+  text-align:center;
+}
+
+.post>*{
+  display:inline-block;
+  width:450px;
+  font-size:30px;
+  vertical-align:middle;
